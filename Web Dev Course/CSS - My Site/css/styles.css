@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+}
+.TopContainer {
+  background-color: #e4f9f5;
+}
+.MiddleContainer{
+  background-color: #30e3ca;
+  height: 200px;
+  width: 200px;
+}
+.BottomContainer{
+  background-color: #11999e;
+  height: 200px;
+  width: 200px;
+}
