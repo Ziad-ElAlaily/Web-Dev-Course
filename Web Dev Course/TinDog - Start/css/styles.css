@@ -114,3 +114,35 @@ h3{
 .pricing-column{
   padding: 3% 2%;
 }
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+  color: #fff;
+}
+.cta-heading{
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+.social-icon{
+  margin: 20px 10px;;
+}
+
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
